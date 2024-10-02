@@ -16,12 +16,12 @@ Welcome to the classic Tic Tac Toe game implemented in Python! This project allo
 
 ### Prerequisites
 
-- Python 3.x installed on your system.
+- Python 2.7 or above installed on your system.
 
 ### Installation
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/tic-tac-toe-python.git
+    git clone https://github.com/AmanDeepSinghH2/Tic-Tac-Toe-
 2. Navigate to the project directory:
     cd tic-tac-toe-python
 3. Run the main script:
